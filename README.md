@@ -48,7 +48,6 @@ Examples of valid paper inputs:
 ```text
 Attention Is All You Need
 https://arxiv.org/pdf/1706.03762
-https://arxiv.org/abs/1706.03762
 ```
 
 The API key should be passed from the CLI as the last argument.
