@@ -1,0 +1,4 @@
+ddgs
+requests
+pypdf
+python-pptx
