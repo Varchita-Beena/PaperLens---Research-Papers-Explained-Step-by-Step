@@ -64,7 +64,7 @@ If the input is a link, it downloads the PDF directly. If the input is a paper n
 Run:
 
 ```bash
-python3 PaperLens/download_paper.py "Attention Is All You Need"
+python3 PaperLens/download_paper.py "Attention Is All You Need" "sk-your-openai-key"
 ```
 
 Expected output:
